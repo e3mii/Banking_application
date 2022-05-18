@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">mBankingApp</string>
+    <string name="cover_image">Cover image</string>
+    <string name="registration">Registration</string>
+    <string name="login">LOGIN</string>
+    <string name="appName">mBankingApp</string>
+    <string name="lastnameHint">Last name</string>
+    <string name="firstnameHint">First name</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="logout_icon">logout_icon</string>
+    <string name="slider3">slider3</string>
+    <string name="slider2">slider2</string>
+    <string name="slider1">slider1</string>
+    <string name="sort_icon">sort_icon</string>
+    <string name="your_pin">Your pin</string>
+    <string name="register">REGISTER</string>
+    <string name="registration_title">Registration</string>
+    <string name="back_icon">back_icon</string>
+</resources>
