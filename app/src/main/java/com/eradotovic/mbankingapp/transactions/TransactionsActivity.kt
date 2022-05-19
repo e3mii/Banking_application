@@ -40,7 +40,7 @@ class TransactionsActivity : AppCompatActivity() {
         binding.userLastName.text = intent.getStringExtra("lastName").toString()
 
 
-        val url = "https://mportal.asseco-see.hr/builds/ISBD_public/Zadatak_1.json"
+        val url = "https://raw.githubusercontent.com/e3mii/Bucket/main/file.json"
         val queue = Volley.newRequestQueue(this)
         val jsonObjectRequest = JsonObjectRequest(
             Request.Method.GET, url, null,
